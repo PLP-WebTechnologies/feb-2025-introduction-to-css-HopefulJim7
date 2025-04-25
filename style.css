@@ -1,0 +1,25 @@
+body {
+  background:  lightblue; /* Set a light blue background for the entire page */
+}
+
+/* Styling the div container */
+.container {
+    border: 2px solid navy;     
+    padding: 20px;               
+    margin: 10px auto;           
+    text-align: center;          
+  }
+  
+  /* Styling the heading inside the div */
+  h2 {
+    color: darkblue;
+    font-size: 28px;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Styling the paragraph inside the div */
+  p {
+    color: navy;
+    font-size: 18px;
+    line-height: 1.5;
+  }
